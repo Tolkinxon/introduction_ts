@@ -1,1 +1,3 @@
-console.log('hello world');
+
+let ism:string = 'tolkinxon';
+console.log(ism);
